@@ -1,0 +1,38 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  max-height: 200px;
+}
+
+.yellow {
+  background-color: #ffea00;
+  height: .5in;
+  width: .5in;
+}
+
+.dyellow {
+  background-color: #ffd500;
+  height: .5in;
+  width: .5in;
+}
+
+.brown {
+  background-color: #782626;
+  height: .5in;
+  width: .5in;
+}
+
+.black {
+  background-color: black;
+  height: .5in;
+  width: .5in;
+}
+
+.white {
+  background-color: white;
+  height: .5in;
+  width: .5in;
+}
